@@ -1,6 +1,7 @@
 
 
 Não fiz ele pensando que alguem iria ler, por isso está com pouquissimos comentarios e de certa forma, desorganizado
+mas a maior parte da desorganização que eu estou vendo aqui, é causada pelo GitHub
 # O Codigo atual:
 
 Algoritmo "PDE-O"
